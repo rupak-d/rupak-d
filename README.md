@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Rupak 👋
 
-<!--
-**rupak-d/rupak-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Robotics Engineer at [LUCI](https://luci.com), where I build perception and autonomy software for power wheelchairs, helping people get around more safely and independently.
+ 
+### What I Work On
+- **Perception & autonomy:** making power wheelchairs aware of their surroundings and able to navigate on their own
+- **Autonomous mobility in public spaces:** grant-funded work toward self-driving wheelchairs for airports and hospitals
+- ⚙️ **Drive tuning:** getting the chair to feel smooth, predictable and safe
 
-Here are some ideas to get you started:
+### Tools I Use
+`C++` · `Rust` · `Python` · `ROS 2` · `Foxglove` · `Linux`
+ 
+### Elsewhere
+- 💼 [LinkedIn](https://www.linkedin.com/in/dasguptarupak/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Off the clock I collect recipes. Yes, [there's a repo for that](https://github.com/rupak-d/recipes).</sub>
+ 
